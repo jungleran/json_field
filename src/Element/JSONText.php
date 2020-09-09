@@ -8,7 +8,7 @@ use Drupal\Core\Render\Element\RenderElement;
 use Drupal\json_field\JsonMarkup;
 
 /**
- * Provides a json text render element.
+ * Provides a JSON text render element.
  *
  * @RenderElement("json_text")
  */
@@ -27,7 +27,7 @@ class JSONText extends RenderElement {
   }
 
   /**
-   * Pre-render callback: Renders a json text element into #markup.
+   * Pre-render callback: Renders a JSON text element into #markup.
    *
    * @todo Add JSON formatting libraries.
    */

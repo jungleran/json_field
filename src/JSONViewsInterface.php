@@ -17,7 +17,7 @@ interface JSONViewsInterface {
    * @param \Drupal\field\FieldStorageConfigInterface $field_storage
    *
    * @return array
-   *   The json field views data.
+   *   The JSON field views data.
    */
   public function getViewsFieldData(FieldStorageConfigInterface $field_storage);
 

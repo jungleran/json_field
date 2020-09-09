@@ -9,7 +9,7 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
 use Symfony\Component\Serializer\SerializerInterface;
 
 /**
- * Field handler to present json data to an entity "data" display.
+ * Field handler to present JSON data to an entity "data" display.
  *
  * @ingroup views_field_handlers
  *

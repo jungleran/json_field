@@ -2,7 +2,7 @@
   "name": "drupal/json_field",
   "description": "Provides a JSON field, formatter and views integration",
   "type": "drupal-module",
-  "license": "GPL-2.0+",
+  "license": "GPL-2.0-or-later",
   "keywords": ["Drupal"],
   "minimum-stability": "dev",
   "homepage": "https://www.drupal.org/project/json_field",

@@ -118,7 +118,9 @@ class JsonItemTest extends KernelTestBase {
   }
 
   /**
+   * Data provider.
    *
+   * @see testSchemaSize()
    */
   public function providerTestSchemaSize() {
     $data = [];

@@ -9,7 +9,9 @@ use Drupal\field\Entity\FieldStorageConfig;
 use Drupal\KernelTests\KernelTestBase as DrupalKernelTestBase;
 
 /**
+ * Class KernelTestBase.
  *
+ * @package Drupal\Tests\json_field\Kernel
  */
 abstract class KernelTestBase extends DrupalKernelTestBase {
 
